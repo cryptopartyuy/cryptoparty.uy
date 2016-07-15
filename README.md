@@ -4,7 +4,7 @@
 
 `make server`
 
-Ir a `http://localhost:8080` para verlo.
+Ir a `http://localhost:8000` para verlo.
 
 ## Deploy:
 
