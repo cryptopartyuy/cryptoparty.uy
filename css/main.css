@@ -2445,6 +2445,10 @@ input[type="button"].small,
   height: 50px;
 }
 
+#header h1 {
+  padding-bottom: 1em;
+}
+
 #header a {
   border-bottom-color: rgba(255, 255, 255, 0.35);
   color: rgba(255, 255, 255, 0.8);
@@ -2702,7 +2706,7 @@ text-align: center;
             background-position: bottom center, center center, center center;
             background-repeat: repeat-x, repeat, no-repeat;
             background-size: 1600px 230px, cover, cover;
-            padding: 10%;
+            padding: 6%;
           }
 
           #header:before {
